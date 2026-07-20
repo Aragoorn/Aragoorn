@@ -5,7 +5,7 @@ Blockchain Developer & On-chain Researcher ⛓️
 * 🔭 **I’m interested in:** Smart Contract Development, Decentralized Finance (DeFi) mechanisms, and Airdrop hunting strategies.
 * 🌱 **I’m currently learning:** Advanced Solidity, Layer 2 scaling solutions (Base, Ink), and Fully Homomorphic Encryption (FHE) with blockchain.
 * 🚀 **Active Projects (Base Vibenet):**
-    * [MasterBaseAccount](https://explorer.vibes.base.org/address/0x77a378b487952522261C61524CA2c4378F8F572a)
+    * [MasterBaseAccount](https://explorer.vibes.base.org/address/0x87f9efffb8608fee20c6f9b8488fd742dd9777d6)
     * [AdvancedVibe](https://explorer.vibes.base.org/address/0xCEbf01345671594bf418bA3Ef0c44B81d3C3C905)
     * [SessionManager](https://explorer.vibes.base.org/address/0x4be61f153Fa43DD7947D88bb178706b557D75783)
     * [PaymasterSimulator](https://explorer.vibes.base.org/address/0x6e16A62C430371eEFA035fd31ac349a09192d5b9)
