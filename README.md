@@ -1,13 +1,23 @@
-### 👨‍💻 Hi, I'm @Aragoorn
+⚡ Hi, I'm Aragorn | Blockchain Engineer & Smart Contract Architect
 
-Blockchain Developer & On-chain Researcher ⛓️
+Passionate on-chain builder specializing in secure smart contract architecture, multi-sig infrastructures, and automated Web3 monitoring tools.
 
-* 🔭 **I’m interested in:** Smart Contract Development, Decentralized Finance (DeFi) mechanisms, and Airdrop hunting strategies.
-* 🌱 **I’m currently learning:** Advanced Solidity, Layer 2 scaling solutions (Base, Ink), and Fully Homomorphic Encryption (FHE) with blockchain.
-* 👯 **I’m looking to collaborate on:** Open-source Web3 projects, on-chain infrastructure tools, and automated distribution protocols.
-* ⚡ **Fun fact:** I've reached high-tier rankings (Master/Legend) on Base and Ink networks through active on-chain participation.
-* 📬 **How to reach me:** You can find me active on-chain across the Base ecosystem.
- 
+🛠️ Core Tech Stack
+
+    Languages: Solidity, TypeScript, Python
+    Frameworks: Hardhat, Foundry, Viem
+    Infrastructure: Gnosis Safe Multi-Sig, Remix IDE, EVM Networks
+
+📈 Focus Areas
+
+    🏗️ Smart Contract Development: Building gas-optimized vaults, upgradeable escrow structures, and robust DeFi logic.
+    🔐 Security & Multi-Sig: Deploying and testing secure multi-signature protocol wallets.
+    📊 On-Chain Automation: Crafting custom Python/TypeScript scripts for real-time transaction monitoring and data analysis.
+
+📫 Connect with me
+
+    GitHub: Active contributor focused on production-grade, open-source Web3 infrastructure.
+    Goal: Driving decentralized innovation through clean, secure, and scalable code.
 <!---
 Aragoorn/Aragoorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
