@@ -18,7 +18,7 @@ Passionate on-chain builder specializing in secure smart contract architecture, 
   
     • GitHub: Active contributor focused on production-grade, open-source Web3 infrastructure.
     • Twitter (X): [@miniastrith](https://x.com/miniastrith))
-    • Discord: `randirko`
+    • Discord: `@randirko`
     • EVM Wallet Address: `0xA1C6808b8f08D091e2826C9640Be302a310655E1`
 
     Goal: Driving decentralized innovation through clean, secure, and scalable code.
