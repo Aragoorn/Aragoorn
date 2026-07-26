@@ -15,9 +15,14 @@ Passionate on-chain builder specializing in secure smart contract architecture, 
     📊 On-Chain Automation: Crafting custom Python/TypeScript scripts for real-time transaction monitoring and data analysis.
 
 📫 Connect with me
-  **EV/Web3 Wallet:** `0xA1C6808b8f08D091e2826C9640Be302a310655E1`
-    GitHub: Active contributor focused on production-grade, open-source Web3 infrastructure.
+  
+    • GitHub: Active contributor focused on production-grade, open-source Web3 infrastructure.
+    • Twitter (X): [@miniastrith](https://x.com/miniastrith))
+    • Discord: `randirko`
+    • EVM Wallet Address: `0xA1C6808b8f08D091e2826C9640Be302a310655E1`
+
     Goal: Driving decentralized innovation through clean, secure, and scalable code.
+
 <!---
 Aragoorn/Aragoorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
