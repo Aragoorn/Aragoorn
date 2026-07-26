@@ -15,7 +15,7 @@ Passionate on-chain builder specializing in secure smart contract architecture, 
     📊 On-Chain Automation: Crafting custom Python/TypeScript scripts for real-time transaction monitoring and data analysis.
 
 📫 Connect with me
-
+  **EV/Web3 Wallet:** `0xA1C6808b8f08D091e2826C9640Be302a310655E1`
     GitHub: Active contributor focused on production-grade, open-source Web3 infrastructure.
     Goal: Driving decentralized innovation through clean, secure, and scalable code.
 <!---
