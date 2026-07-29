@@ -6,7 +6,7 @@ Passionate on-chain builder specializing in secure smart contract architecture, 
 
     Languages: Solidity, TypeScript, Python
     Frameworks: Hardhat, Foundry, Viem
-    Infrastructure: Gnosis Safe Multi-Sig, Remix IDE, EVM Networks
+    Infrastructure: Gnosis Safe Multi-Sig, Remix IDE, EVM Networks.
 
 📈 Focus Areas
 
